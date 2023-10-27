@@ -14,10 +14,10 @@ Hebtai:           https://i.imgur.com/l7f638k.jpeg
 Mein Dirt:        https://i.imgur.com/Jfs21ls.jpg
 Mein Photo:       https://i.imgur.com/L6JzMk3.jpg
 Mein Glas:        https://i.imgur.com/mCLKyx1.png
-LA: 		          https://i.imgur.com/04HSma6.png
+LA:               https://i.imgur.com/04HSma6.png
 More anim shat:   https://i.redd.it/o2sq8pv1neg91.png
 nil:              https://i.imgur.com/AtWUWDT.jpeg
-rape:             https://i.imgur.com/8zmhicF.png
+rapth:            https://i.imgur.com/8zmhicF.png
 Forest 1080p:     https://i.redd.it/4v718eku9z221.png
 Dear 4K:          https://i.imgur.com/kYW2H5C.jpg
 Valley 2K:        https://hdqwalls.com/wallpapers/small-memory-lp.jpg
