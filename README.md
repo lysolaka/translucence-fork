@@ -24,3 +24,16 @@ Valley 2K:        https://hdqwalls.com/wallpapers/small-memory-lp.jpg
 Valley 8K:        https://i.imgur.com/768zfyS.jpg
 */
 ```
+
+```
+Changed segments:
+
+> App Elements :: selection
+> Panels :: avatarSpeaking
+> Markup :: color
+> Messages :: isUnread
+> Messages :: mentioned
+> Message Reactions :: reaction
+> Server List :: mention
+> Server List :: number badge
+```
