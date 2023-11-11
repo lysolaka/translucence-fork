@@ -22,6 +22,7 @@ Forest 1080p:     https://i.redd.it/4v718eku9z221.png
 Dear 4K:          https://i.imgur.com/kYW2H5C.jpg
 Valley 2K:        https://hdqwalls.com/wallpapers/small-memory-lp.jpg
 Valley 8K:        https://i.imgur.com/768zfyS.jpg
+Furryina:         https://images8.alphacoders.com/132/1328868.jpeg
 */
 ```
 
